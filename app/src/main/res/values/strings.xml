@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cred Bottom Sheet</string>
+    <string name="title">multi-stack view</string>
+    <string name="tap_for_emi">Tap for 1-click EMI</string>
+    <string name="how_much_do_you_need">rawlin, how much do you need?</string>
+    <string name="bank_title">where should we send the money?</string>
+    <string name="bank_name">Kotak Mahindra Bank</string>
+    <string name="account_number">543216789</string>
+    <string name="how_to_repay">how do you wish to repay?</string>
+    <string name="tnc">terms and conditions apply</string>
+    <string name="choose_plan">choose one of the recommended plans to repay</string>
+    <string name="bank_sub">amount will be credited to this bank account, EMI will also be debited from this bank account</string>
+    <string name="move_the_dial">move the dial and set any amount you need upto \u20B9 4,87,891</string>
+</resources>
